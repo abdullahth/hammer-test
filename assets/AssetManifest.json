@@ -1,0 +1,164 @@
+{
+    "assets/Logo-colored.png": [
+        "assets/Logo-colored.png",
+        "assets/images/Logo-colored.png"
+    ],
+    "assets/about-mobile.webp": [
+        "assets/about-mobile.webp",
+        "assets/images/about-mobile.webp"
+    ],
+    "assets/about.webp": [
+        "assets/about.webp",
+        "assets/images/about.webp"
+    ],
+    "assets/blog-background.webp": [
+        "assets/blog-background.webp",
+        "assets/images/blog-background.webp"
+    ],
+    "assets/blog-phone-banner.webp": [
+        "assets/blog-phone-banner.webp",
+        "assets/images/blog-phone-banner.webp"
+    ],
+    "assets/blog-solutions-banner.webp": [
+        "assets/blog-solutions-banner.webp",
+        "assets/images/blog-solutions-banner.webp"
+    ],
+    "assets/clouds-back.png": [
+        "assets/clouds-back.png",
+        "assets/images/clouds-back.png"
+    ],
+    "assets/clouds-front.png": [
+        "assets/clouds-front.png",
+        "assets/images/clouds-front.png"
+    ],
+    "assets/contact-page-banner.jpg": [
+        "assets/contact-page-banner.jpg",
+        "assets/images/contact-page-banner.jpg"
+    ],
+    "assets/facebook-icon.webp": [
+        "assets/facebook-icon.webp",
+        "assets/images/facebook-icon.webp"
+    ],
+    "assets/hammer-car-protector.jpg": [
+        "assets/hammer-car-protector.jpg",
+        "assets/images/hammer-car-protector.jpg"
+    ],
+    "assets/home-card-five-phone.png": [
+        "assets/home-card-five-phone.png",
+        "assets/images/home-card-five-phone.png"
+    ],
+    "assets/home-card-four-phone.png": [
+        "assets/home-card-four-phone.png",
+        "assets/images/home-card-four-phone.png"
+    ],
+    "assets/home-card-one-phone.png": [
+        "assets/home-card-one-phone.png",
+        "assets/images/home-card-one-phone.png"
+    ],
+    "assets/home-card-three-bumbers.png": [
+        "assets/home-card-three-bumbers.png",
+        "assets/images/home-card-three-bumbers.png"
+    ],
+    "assets/home-card-two-phone.png": [
+        "assets/home-card-two-phone.png",
+        "assets/images/home-card-two-phone.png"
+    ],
+    "assets/home-first-background.webp": [
+        "assets/home-first-background.webp",
+        "assets/images/home-first-background.webp"
+    ],
+    "assets/home-first-card-one-background.webp": [
+        "assets/home-first-card-one-background.webp",
+        "assets/images/home-first-card-one-background.webp"
+    ],
+    "assets/home-first-card-three-background.webp": [
+        "assets/home-first-card-three-background.webp",
+        "assets/images/home-first-card-three-background.webp"
+    ],
+    "assets/home-first-card-two-background.webp": [
+        "assets/home-first-card-two-background.webp",
+        "assets/images/home-first-card-two-background.webp"
+    ],
+    "assets/instagram-icon.webp": [
+        "assets/instagram-icon.webp",
+        "assets/images/instagram-icon.webp"
+    ],
+    "assets/lifetime-warrenty.webp": [
+        "assets/lifetime-warrenty.webp",
+        "assets/images/lifetime-warrenty.webp"
+    ],
+    "assets/logo-white.png": [
+        "assets/logo-white.png",
+        "assets/images/logo-white.png"
+    ],
+    "assets/map.PNG": [
+        "assets/map.PNG",
+        "assets/images/map.PNG"
+    ],
+    "assets/mobile-else-bg.jpg": [
+        "assets/mobile-else-bg.jpg",
+        "assets/images/mobile-else-bg.jpg"
+    ],
+    "assets/product-example.png": [
+        "assets/product-example.png",
+        "assets/images/product-example.png"
+    ],
+    "assets/products-page-bumber-image.jpg": [
+        "assets/products-page-bumber-image.jpg",
+        "assets/images/products-page-bumber-image.jpg"
+    ],
+    "assets/products-page-screen-protector-image.png": [
+        "assets/products-page-screen-protector-image.png",
+        "assets/images/products-page-screen-protector-image.png"
+    ],
+    "assets/products-page-skins-image.jpg": [
+        "assets/products-page-skins-image.jpg",
+        "assets/images/products-page-skins-image.jpg"
+    ],
+    "assets/promise-section-background.webp": [
+        "assets/promise-section-background.webp",
+        "assets/images/promise-section-background.webp"
+    ],
+    "assets/shield.webp": [
+        "assets/shield.webp",
+        "assets/images/shield.webp"
+    ],
+    "assets/support-page-banner.webp": [
+        "assets/support-page-banner.webp",
+        "assets/images/support-page-banner.webp"
+    ],
+    "assets/youtube-icon.webp": [
+        "assets/youtube-icon.webp",
+        "assets/images/youtube-icon.webp"
+    ],
+    "fonts/Anton/Anton-Regular.ttf": [
+        "fonts/Anton/Anton-Regular.ttf"
+    ],
+    "fonts/Cairo/Cairo-Black.ttf": [
+        "fonts/Cairo/Cairo-Black.ttf"
+    ],
+    "fonts/Cairo/Cairo-Bold.ttf": [
+        "fonts/Cairo/Cairo-Bold.ttf"
+    ],
+    "fonts/Cairo/Cairo-ExtraLight.ttf": [
+        "fonts/Cairo/Cairo-ExtraLight.ttf"
+    ],
+    "fonts/Cairo/Cairo-Light.ttf": [
+        "fonts/Cairo/Cairo-Light.ttf"
+    ],
+    "fonts/Cairo/Cairo-Regular.ttf": [
+        "fonts/Cairo/Cairo-Regular.ttf"
+    ],
+    "fonts/Cairo/Cairo-SemiBold.ttf": [
+        "fonts/Cairo/Cairo-SemiBold.ttf"
+    ],
+    "fonts/Quicksand/Quicksand-Bold.ttf": [
+        "fonts/Quicksand/Quicksand-Bold.ttf"
+    ],
+    "fonts/Quicksand/Quicksand-Regular.ttf": [
+        "fonts/Quicksand/Quicksand-Regular.ttf"
+    ],
+    "packages/cupertino_icons/assets/CupertinoIcons.ttf": [
+        "packages/cupertino_icons/assets/CupertinoIcons.ttf"
+    ]
+}
